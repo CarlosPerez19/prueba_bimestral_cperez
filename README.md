@@ -3,7 +3,7 @@ Carlos Pérez
 
 # INICIO DE SESIÓN
 
-<img width="439" height="900" alt="image" src="https://github.com/user-attachments/assets/58aa23f4-e172-466a-8e6a-fcc7e45a61f6" />
+<img width="439" height="700" alt="image" src="https://github.com/user-attachments/assets/58aa23f4-e172-466a-8e6a-fcc7e45a61f6" />
 
 # LISTA DE TAREAS USUARIOS
 
