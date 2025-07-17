@@ -1,16 +1,30 @@
-# prueba_bimestral_cperez
+# Prueba Bimestral
+Carlos Pérez
 
-A new Flutter project.
+# INICIO DE SESIÓN
 
-## Getting Started
+<img width="439" height="900" alt="image" src="https://github.com/user-attachments/assets/58aa23f4-e172-466a-8e6a-fcc7e45a61f6" />
 
-This project is a starting point for a Flutter application.
+# LISTA DE TAREAS USUARIOS
 
-A few resources to get you started if this is your first Flutter project:
+  <img width="431" height="894" alt="image" src="https://github.com/user-attachments/assets/3d454935-03c6-4ab5-b554-fe790ced2689" />
+  
+<img width="433" height="894" alt="image" src="https://github.com/user-attachments/assets/5ab87bc6-9f0c-42e7-94f1-849ee2493ded" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# FORMULARIO PARA CREAR TAREAS
+ 
+<img width="521" height="1077" alt="image" src="https://github.com/user-attachments/assets/4cf4d4b5-9999-4f93-a89b-1c34e56932f5" />
+
+# TRANSACCIONES SUPABASE
+# AUTENTICACION
+
+<img width="948" height="191" alt="image" src="https://github.com/user-attachments/assets/656af7b6-ad7e-49b8-8087-61bce0791e9a" />
+
+
+# TABLA DE TAREAS
+ 
+<img width="946" height="187" alt="image" src="https://github.com/user-attachments/assets/fe493e62-bff5-4d89-ae5a-4e8d6b7da0d7" />
+
+# STORAGE IMÁGENES
+<img width="948" height="452" alt="image" src="https://github.com/user-attachments/assets/337cd5ac-c648-44ef-b226-111041d54215" />
